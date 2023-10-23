@@ -1,4 +1,4 @@
-# Sound Separation to Improve Sound Classification
+# ENSEMBLE DEEP LEARNING FOR CLASSIFICATION OF POLLUTION PEAKS
 
 ## Software requirements:
 - Numpy, pandas, sklearn, tensorflow2.3, shap.
