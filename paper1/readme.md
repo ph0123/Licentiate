@@ -1,4 +1,4 @@
-# Sound Separation to Improve Sound Classification
+# Deep Learning Approach for Assessing Air Quality During COVID-19 Lockdown in Quito
 
 ## Software requirements:
 - Numpy, pandas, sklearn, tensorflow2.3, shap, plotly.
